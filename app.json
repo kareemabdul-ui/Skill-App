@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Skill",
+    "slug": "skill-growth-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.skillgrowth.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.skillgrowth.app"
+    }
+  }
+}
