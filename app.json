@@ -6,12 +6,17 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "newArchEnabled": true,
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "android": {
       "package": "com.skillgrowth.app"
     },
     "ios": {
       "bundleIdentifier": "com.skillgrowth.app"
-    }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
   }
 }

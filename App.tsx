@@ -640,7 +640,7 @@ export default function App() {
   const renderCompete = () => (
     <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={styles.scroll}>
       <Text style={styles.pageKicker}>COMPETE</Text>
-      <Text style={styles.pageTitle}>Prove what{"\n}you can do.</Text>
+      <Text style={styles.pageTitle}>Prove what you can do.</Text>
       <Text style={styles.pageSubtitle}>Challenges turn learning into something real.</Text>
 
       <GlassCard style={styles.challengeHero}>
